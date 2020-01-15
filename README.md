@@ -1,2 +1,2 @@
-# semana-omnistack
+# Semana OmniStack
 Rockeseat
